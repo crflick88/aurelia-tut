@@ -1,1 +1,1 @@
-# aurelia-tut
+# jwtAurelia
